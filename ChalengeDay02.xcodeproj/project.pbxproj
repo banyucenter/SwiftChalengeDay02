@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2898E19024E6AAD700F269B5 /* DetailProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2898E18F24E6AAD700F269B5 /* DetailProduct.swift */; };
 		28BDCC6B24E68D9700A1D525 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BDCC6A24E68D9700A1D525 /* AppDelegate.swift */; };
 		28BDCC6D24E68D9700A1D525 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BDCC6C24E68D9700A1D525 /* SceneDelegate.swift */; };
 		28BDCC6F24E68D9700A1D525 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BDCC6E24E68D9700A1D525 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2898E18F24E6AAD700F269B5 /* DetailProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailProduct.swift; sourceTree = "<group>"; };
 		28BDCC6724E68D9700A1D525 /* ChalengeDay02.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChalengeDay02.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28BDCC6A24E68D9700A1D525 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28BDCC6C24E68D9700A1D525 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				28BDCC7524E68D9900A1D525 /* LaunchScreen.storyboard */,
 				28BDCC7824E68D9900A1D525 /* Info.plist */,
 				28BDCC7224E68D9900A1D525 /* Preview Content */,
+				2898E18F24E6AAD700F269B5 /* DetailProduct.swift */,
 			);
 			path = ChalengeDay02;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				28BDCC6B24E68D9700A1D525 /* AppDelegate.swift in Sources */,
 				28BDCC6D24E68D9700A1D525 /* SceneDelegate.swift in Sources */,
+				2898E19024E6AAD700F269B5 /* DetailProduct.swift in Sources */,
 				28BDCC6F24E68D9700A1D525 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
